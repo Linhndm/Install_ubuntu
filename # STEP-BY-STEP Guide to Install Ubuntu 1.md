@@ -17,12 +17,38 @@ I suggest to use **Rufus** to create it. [Link here](https://rufus.ie/).
 <span style="color:red"> **NOTE: "Rufus" will format (remove) everything from your USB device. If you have any important data on the USB device, please be sure to move it somewhere safe before you go through the next steps**</span>
 
 1. While "Rufus" is open, insert your USB drive (minimum 8GB) that you wish to make Ubuntu bootable. It should be automatically detected by "Rufus." 
-   ![](/Image/1.png)
+
+![](/Image/1.png)
+
 2. Click "SELECT"
+
+![](/Image/2.png)
+
 3. A "File Explorer" windows should show. Select "ubuntu-18.04.3-desktop-amd64" and click "Open."
+
+![](/Image/3.png)
+
 4. Click "Start"
+
+![](/Image/4.png)
+
 5. Click "Yes" 
+
+![](/Image/5.png)
+
 6. Be sure to leave the default - Write in ISO Image mode (Recommended). Click "OK"
+
+![](/Image/6.png)
+
 7. If you are sure that you have all important files on USB device moved to another location, click "OK." 
+
+![](/Image/7.png)
+
 8. Rufus" will now start the function of making the USB device bootable. It will take a few minutes.
+
+![](/Image/8.png)
+
 9. You will see "READY" status once the process is complete. 
+    
+![](/Image/9.png)
+

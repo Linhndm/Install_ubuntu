@@ -18,37 +18,50 @@ I suggest to use **Rufus** to create it. [Link here](https://rufus.ie/).
 
 1. While "Rufus" is open, insert your USB drive (minimum 8GB) that you wish to make Ubuntu bootable. It should be automatically detected by "Rufus." 
 
-![](/Image/1.png)
+    ![](/Image/1.png)
 
 2. Click "SELECT"
 
-![](/Image/2.png)
+    ![](/Image/2.png)
 
 3. A "File Explorer" windows should show. Select "ubuntu-18.04.3-desktop-amd64" and click "Open."
 
-![](/Image/3.png)
+    ![](/Image/3.png)
 
 4. Click "Start"
 
-![](/Image/4.png)
+    ![](/Image/4.png)
 
 5. Click "Yes" 
 
-![](/Image/5.png)
+    ![](/Image/5.png)
 
 6. Be sure to leave the default - Write in ISO Image mode (Recommended). Click "OK"
 
-![](/Image/6.png)
+    ![](/Image/6.png)
 
 7. If you are sure that you have all important files on USB device moved to another location, click "OK." 
 
-![](/Image/7.png)
+    ![](/Image/7.png)
 
 8. Rufus" will now start the function of making the USB device bootable. It will take a few minutes.
+   
+    ![](/Image/8.png)
 
-![](/Image/8.png)
+9.  You will see "READY" status once the process is complete. 
 
-9. You will see "READY" status once the process is complete. 
-    
-![](/Image/9.png)
+    ![](/Image/9.png)
 
+## Step 3: Boot from Flash Drive
+
+1. Boot from the USB device.
+
+    &nbsp; * How to boot from the USB device all depends on the motherboard you have. Get into the "BIOS" of your motherboard or access the "Boot Manager" to select the bootable USB device that has "Ubuntu 18.04 LTS" made with "Rufus."
+
+    *Hint: On some motherboards, repeatedly pressing **F2** or **DEL** or <F12> just after you pressed the power button, will allow you access "BIOS" or "Boot Manager." Please reference your PC/motherboard manufacture for the proper key to access "BIOS" or "Boot Manager."*
+
+2. Select "Try Ubuntu without installing" 
+   
+   ![](/Image/10.png)
+
+3. 
